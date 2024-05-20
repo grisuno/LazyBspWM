@@ -17,8 +17,8 @@ Sigue estos pasos para instalar y configurar LazyBspWM:
 
 2. Ejecuta el script de instalación:
     ```bash
-    chmod +x install.sh
-    ./install.sh
+    chmod +x lazybspwm.sh
+    ./lazybspwm.sh
     ```
 
 3. Reinicia tu sesión para aplicar los cambios.
