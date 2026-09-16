@@ -1,0 +1,21 @@
+{
+  "tool": "readmenator",
+  "generated_at": "2026-09-16T04:59:20Z",
+  "project_root": "/tmp/push_LazyBspWM_20260916_013256",
+  "files": 1,
+  "symbols": 4,
+  "imports": 0,
+  "resolved_imports": 0,
+  "security_findings": 0,
+  "languages": {
+    "sh": 1
+  },
+  "entrypoints": [],
+  "start_here": "INDEX.md",
+  "workflow": [
+    "grep -n '<keyword>' INDEX.md",
+    "cat KB_<subsystem>.md",
+    "grep -n '<file>' ARCHITECTURE.md SYMBOLS.md"
+  ],
+  "regenerate": "readmenator . --rebuild"
+}
