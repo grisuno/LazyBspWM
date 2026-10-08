@@ -1,8 +1,8 @@
 # Subsystem: misc
 
 ## lazybspwm.sh
-- Doc: Paquetes necesarios
 - Layer: utility
+- Doc: Paquetes necesarios
 - Language: sh
 - Symbols:
   - `mkt` (function, line 305)

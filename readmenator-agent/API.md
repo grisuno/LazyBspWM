@@ -1,7 +1,18 @@
 # API
 
 ## lazybspwm.sh
-- `mkt` (function) `lazybspwm.sh:305` -- Functions
-- `extractPorts` (function) `lazybspwm.sh:310` -- Extract nmap information
-- `man` (function) `lazybspwm.sh:322` -- Set 'man' colors
-- `rmk` (function) `lazybspwm.sh:343`
+
+### mkt (function)
+- Defined: `lazybspwm.sh:305`
+- Doc: Functions
+
+### extractPorts (function)
+- Defined: `lazybspwm.sh:310`
+- Doc: Extract nmap information
+
+### man (function)
+- Defined: `lazybspwm.sh:322`
+- Doc: Set 'man' colors
+
+### rmk (function)
+- Defined: `lazybspwm.sh:343`
